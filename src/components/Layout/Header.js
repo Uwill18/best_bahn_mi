@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
     <header className={classes.header}>
-        <h1>Food Ordering App</h1>
+        <h1>Best Bahn Mi</h1>
         <button>Cart</button>
     </header>
     <div className={classes["main-image"]}>
