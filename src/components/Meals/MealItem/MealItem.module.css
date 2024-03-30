@@ -8,15 +8,17 @@
   
   .meal h3 {
     margin: 0 0 0.25rem 0;
+    color: #01072d;
   }
   
   .description {
     font-style: italic;
+    color: #01072d;
   }
   
   .price {
     margin-top: 0.25rem;
     font-weight: bold;
-    color: #4bbd27;
+    color: #01072d;
     font-size: 1.25rem;
   }
