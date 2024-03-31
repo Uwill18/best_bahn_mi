@@ -5,7 +5,9 @@
     width: 100%;
     height: 5rem;
     background-color: #610000;
-    color: white;
+    /* color: #fbe482; */
+    color:#dbbd5a;
+    /* color:#ffdc73; */
     display: flex;
     justify-content: space-between;
     align-items: center;
