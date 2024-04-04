@@ -7,25 +7,29 @@ const Menu_Items =[
         id: "1",
         name: "Brisket Banh Mi",
         description: "Juicy Beef Banh Mi sandwich served with custom sauce",
-        price: 8.99
+        price: 8.99,
+        image:"/brisket_bahn_mi.jpg"
     },
     {
         id: "2",
         name: "Chicken Bahn Mi",
         description: "Succulent Chicken Bahn mi served with custom sauce",
-        price: 8.99
+        price: 8.99,
+        image:"/brisket_bahn_mi.jpg"
     },
     {
         id: "3",
         name: "Avocado Smoothie",
         description: "refreshingly sweet and creamy avocado smoothie",
-        price: 2.99
+        price: 2.99,
+        image:"/brisket_bahn_mi.jpg"
     },
     {
         id: "4",
         name: "Milk Tea Boba",
         description: "Richly sweet milk tea boba",
-        price: 1.99
+        price: 1.99,
+        image:"/brisket_bahn_mi.jpg"
     }
 ];
 

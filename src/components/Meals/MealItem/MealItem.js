@@ -15,6 +15,7 @@ const addToCartHandler = (amount) => {
     name: props.name,
     amount: amount,
     price: props.price,
+    image: props.image,
   });
 };
 
@@ -27,7 +28,11 @@ const addToCartHandler = (amount) => {
             <div className={classes.price}>{price}</div>
             
         </div>
-        <div><MealItemForm id={props.id} onAddToCart={addToCartHandler}/></div>
+       
+        <div>
+        <div><img src={props.image} alt="" height={50}/></div>
+          <MealItemForm id={props.id} onAddToCart={addToCartHandler}/>
+          </div>
     </li>
   
   )
